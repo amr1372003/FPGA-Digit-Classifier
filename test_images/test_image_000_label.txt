@@ -1,0 +1,2 @@
+true_label: 6
+pytorch_pred: 6
