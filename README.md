@@ -3,7 +3,7 @@
 A hardware implementation of a fully-connected, integer-quantized neural network that classifies handwritten digits (MNIST-style), written in Verilog and verified against a bit-exact Python golden model.
 
 <p align="center">
-  <img src="images/FPGA Digit Classifier.png" alt="Neural Network Accelerator Architecture" width="800">
+  <img src="FPGA Digit Classifier.png" alt="Neural Network Accelerator Architecture" width="800">
 </p>
 
 ## Overview
